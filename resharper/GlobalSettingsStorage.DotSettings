@@ -1,15 +1,16 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/AutopopupEnabled/CppAutopopupEnabled/AfterDot/@EntryValue">HardAutopopup</s:String>
+	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/IntelliSenseCompletingCharacters/CSharpCompletingCharacters/UpgradedFromVSSettings/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/IntellisenseEnabled/IntellisenseEnabledSettingCpp/IntellisenseEnabled/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/IntellisenseEnabled/IntellisenseEnabledSettingCSharp/IntellisenseEnabled/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/IntellisenseGloballyEnabled/IntellisenseEnabled/@EntryValue">Disabled</s:String>
 	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/ReplaceKeywordsWithTemplates/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/CodeEditing/Intellisense/EnhancedTooltipSettingsRoot/Display/ScreenWidthLimitPercent/@EntryValue">80</s:Int64>
-	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/EnhancedTooltipSettingsRoot/IdentifierTooltip/ShowArgumentsRole/@EntryValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/EnhancedTooltipSettingsRoot/IdentifierTooltip/ShowBaseType/@EntryValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/EnhancedTooltipSettingsRoot/IdentifierTooltip/ShowImplementedInterfaces/@EntryValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/EnhancedTooltipSettingsRoot/IdentifierTooltip/UseClassModifiersInKind/@EntryValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/EnhancedTooltipSettingsRoot/IdentifierTooltip/UseMethodModifiersInKind/@EntryValue">True</s:Boolean>
+	
+	
+	
+	
+	
+	
 	<s:Int64 x:Key="/Default/CodeEditing/Intellisense/LookupWindow/LookupHeight/@EntryValue">20</s:Int64>
 	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/LookupWindow/ShowSignatures/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeInspection/CppInspection/IdentifierHighlightingEnabled/@EntryValue">False</s:Boolean>
@@ -68,6 +69,9 @@
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/ALIGN_MULTILINE_ARGUMENT/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/ALIGN_MULTILINE_PARAMETER/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/CASE_BLOCK_BRACES/@EntryValue">NEXT_LINE</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/EMPTY_BLOCK_STYLE/@EntryValue">TOGETHER_SAME_LINE</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/SIMPLE_BLOCK_STYLE/@EntryValue">ON_SINGLE_LINE</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/SIMPLE_EMBEDDED_STATEMENT_STYLE/@EntryValue">LINE_BREAK</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/SPACE_BEFORE_PTR_IN_DATA_MEMBER/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/SPACE_BEFORE_PTR_IN_METHOD/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/SPACE_BEFORE_STATEMENT_PARENTHESES/@EntryValue">False</s:Boolean>
@@ -79,7 +83,7 @@
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/LINE_FEED_AT_FILE_END/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_WHILE_ON_NEW_LINE/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_AFTER_TYPECAST_PARENTHESES/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_AROUND_MULTIPLICATIVE_OP/@EntryValue">True</s:Boolean>
+	
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_CATCH_PARENTHESES/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_FIXED_PARENTHESES/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_FOR_PARENTHESES/@EntryValue">False</s:Boolean>
@@ -154,7 +158,7 @@
 	<s:Boolean x:Key="/Default/Environment/AssemblyExplorer/UseAssemblyExplorerByDefault/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Environment/Editor/MatchingBraceHighlighting/Position/@EntryValue">BOTH_SIDES</s:String>
 	<s:String x:Key="/Default/Environment/Editor/MatchingBraceHighlighting/Style/@EntryValue">OUTLINE</s:String>
-	<s:Boolean x:Key="/Default/Environment/Editor/QuickInfo/EnableQuickInfo/@EntryValue">False</s:Boolean>
+	
 	
 	<s:String x:Key="/Default/Environment/ErrorStripe/ErrorStripeLayoutSinceVs12/@EntryValue">NoErrorStripe</s:String>
 	
@@ -168,7 +172,8 @@
 	
 	<s:String x:Key="/Default/Environment/Hierarchy/PsiConfigurationSettingsKey/CustomLocation/@EntryValue">E:\vsfiles\intellitrace\resharper</s:String>
 	<s:String x:Key="/Default/Environment/Hierarchy/PsiConfigurationSettingsKey/LocationType/@EntryValue">CUSTOM_FOLDER</s:String>
-	<s:Boolean x:Key="/Default/Environment/OpenDocument/OpenDocumentAfterModification/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/MemoryUsageIndicator/IsVisible/@EntryValue">True</s:Boolean>
+	
 	
 	
 	<s:Boolean x:Key="/Default/Environment/SearchAndNavigation/AutoExpandResults/@EntryValue">True</s:Boolean>
@@ -195,9 +200,10 @@
 	<s:String x:Key="/Default/Housekeeping/FeedbackReport/SelfProfilingToolLocation/@EntryValue">C:\Users\xujie\AppData\Local\Temp\d5835ec7-c644-4411-8361-43edf8f9e251</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/FeedbackReport/SelectedUserIdentificator/@EntryValue">anonymous</s:String>
-	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/Position/@EntryValue">[193,-14](1068,738)</s:String>
-	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/SelectedPageId/@EntryValue">CppFormatterSpacesPage</s:String>
-	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/RefactoringWizardWindow/Location/@EntryValue">-322,-312</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/IntellisenseHousekeeping/HintUsed/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/Position/@EntryValue">[262,28](1068,874)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/SelectedPageId/@EntryValue">ExternalSources</s:String>
+	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/RefactoringWizardWindow/Location/@EntryValue">-75,-178</s:String>
 	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/RegularExpressionEditorWindow/InputColumnWidth/@EntryValue">422</s:String>
 	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/RegularExpressionEditorWindow/InputRowHeight/@EntryValue">268.5</s:String>
 	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/RegularExpressionEditorWindow/Location/@EntryValue">660,315.5</s:String>
@@ -209,6 +215,7 @@
 	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/RenameRefactoring/DoSearchForTextInStrings/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/UseInline/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/Search/SearchForLateBound/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/IsPreviewVisible/=CppTypeHierarchyDescriptor/@EntryIndexedValue">True</s:Boolean>
 	
 	
 	
@@ -221,8 +228,23 @@
 	
 	<s:Boolean x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/IsPreviewVisible/=TodoExplorerDescriptor/@EntryIndexedValue">False</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewOrientation/=TodoExplorerDescriptor/@EntryIndexedValue">Horizontal</s:String>
+	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterHorizontalProportion/=CppTypeHierarchyDescriptor/@EntryIndexedValue">1</s:Double>
 	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterHorizontalProportion/=TodoExplorerDescriptor/@EntryIndexedValue">1</s:Double>
+	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterVerticalProportion/=CppTypeHierarchyDescriptor/@EntryIndexedValue">1</s:Double>
 	<s:Boolean x:Key="/Default/Housekeeping/UpgradeFromExceptionReport/UpgradePerformed/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201608120246516548/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201608120246516548/LanguageName/@EntryValue">CSHARP</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201608120246516548/SearchPattern/@EntryValue">http</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/RecentSearch/=201608120246516548/SearchPattern/@EntryValue">http</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=BAC6FB0DB028E34A9E2EB57C00E3FC0A/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=BAC6FB0DB028E34A9E2EB57C00E3FC0A/CaseSensitive/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=BAC6FB0DB028E34A9E2EB57C00E3FC0A/Color/@EntryValue">WindowText</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=BAC6FB0DB028E34A9E2EB57C00E3FC0A/MatchComments/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=BAC6FB0DB028E34A9E2EB57C00E3FC0A/Name/@EntryValue">TEST</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=BAC6FB0DB028E34A9E2EB57C00E3FC0A/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;TEST)(\W|$)(.*)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=BAC6FB0DB028E34A9E2EB57C00E3FC0A/TodoIconStyle/@EntryValue">Warning</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EC15303D0EE63141849D3194F53F5F57/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EC15303D0EE63141849D3194F53F5F57/Color/@EntryValue">WindowText</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EC15303D0EE63141849D3194F53F5F57/MatchComments/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EC15303D0EE63141849D3194F53F5F57/Name/@EntryValue">TIPS</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EC15303D0EE63141849D3194F53F5F57/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;TIPS)(\W|$)(.*)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EC15303D0EE63141849D3194F53F5F57/TodoIconStyle/@EntryValue">Warning</s:String></wpf:ResourceDictionary>
