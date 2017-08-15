@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="0" transparency="200" dotMatchesNewline="no">
+        <Find name="TafEvent::_S2C_GetRecentLiveWordCloud" />
         <Find name="_S2C_GetRecentLiveWordCloud" />
         <Find name="reqRecentLiveHotWords" />
         <Find name="_S2C_GetRecentLiveHotWords" />
@@ -10,19 +11,18 @@
         <Find name="clip" />
         <Find name="GetUnits" />
         <Find name="yygltopsurface" />
-        <Find name="pubfunc" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="E:\github\dgkanatsios\MatchThreeGame\Assets\Sprites\Animations\explosionblue01.controller" />
         <File filename="F:\trunk.template\cpp\src\yygamelive\src\mainframe\widgets\gamelivestartwidget.cpp" />
         <File filename="C:\Users\xujie\AppData\Roaming\Notepad++\contextMenu.xml" />
         <File filename="F:\0.yy.gamelive.config\user.ini" />
         <File filename="E:\unityfiles\proj1\ProjectSettings\GraphicsSettings.asset" />
-        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
-        <File filename="C:\Program Files\MacType\ini\xujie.ini" />
         <File filename="C:\Users\xujie\Desktop\TestPresenter.ini" />
         <File filename="C:\Users\xujie\Desktop\ljp.txt" />
         <File filename="F:\presenter.110\bin\release\layout\presenterModule\MainFrameWidget.xml" />
+        <File filename="E:\gofiles\src\thexujie.com\test\main.go" />
+        <File filename="C:\Program Files\MacType\ini\xujie.ini" />
+        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -31,7 +31,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="212" y="122" width="1391" height="674" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="65" y="273" width="1391" height="614" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">yes</GUIConfig>
