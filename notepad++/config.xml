@@ -13,8 +13,6 @@
         <Find name="pubfunc" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="E:\github\dgkanatsios\MatchThreeGame\Assets\Prefabs\explosionblue.prefab" />
-        <File filename="E:\github\dgkanatsios\MatchThreeGame\Assets\Prefabs\explosionblue.prefab.meta" />
         <File filename="E:\github\dgkanatsios\MatchThreeGame\Assets\Sprites\Animations\explosionblue01.controller" />
         <File filename="F:\trunk.template\cpp\src\yygamelive\src\mainframe\widgets\gamelivestartwidget.cpp" />
         <File filename="C:\Users\xujie\AppData\Roaming\Notepad++\contextMenu.xml" />
@@ -23,6 +21,8 @@
         <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
         <File filename="C:\Program Files\MacType\ini\xujie.ini" />
         <File filename="C:\Users\xujie\Desktop\TestPresenter.ini" />
+        <File filename="C:\Users\xujie\Desktop\ljp.txt" />
+        <File filename="F:\presenter.110\bin\release\layout\presenterModule\MainFrameWidget.xml" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -31,7 +31,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="103" y="196" width="1391" height="674" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="212" y="122" width="1391" height="674" isMaximized="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">yes</GUIConfig>
