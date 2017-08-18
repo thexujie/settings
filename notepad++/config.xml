@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="0" transparency="200" dotMatchesNewline="no">
-        <Find name="TafEvent::_S2C_GetRecentLiveWordCloud" />
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no">
+        <Find name="initVR" />
+        <Find name="&#x4E0D;&#x80FD;&#x89C2;&#x770B;" />
+        <Find name="on_retryUpload" />
+        <Find name="on_share_uploaded" />
         <Find name="_S2C_GetRecentLiveWordCloud" />
+        <Find name="TafEvent::_S2C_GetRecentLiveWordCloud" />
         <Find name="reqRecentLiveHotWords" />
         <Find name="_S2C_GetRecentLiveHotWords" />
         <Find name="reqRecentLiveWordCloudReq" />
         <Find name="error" />
-        <Find name="on_txtball_clicked();" />
-        <Find name="clip" />
-        <Find name="GetUnits" />
-        <Find name="yygltopsurface" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\trunk.template\cpp\src\yygamelive\src\mainframe\widgets\gamelivestartwidget.cpp" />
-        <File filename="C:\Users\xujie\AppData\Roaming\Notepad++\contextMenu.xml" />
-        <File filename="F:\0.yy.gamelive.config\user.ini" />
-        <File filename="E:\unityfiles\proj1\ProjectSettings\GraphicsSettings.asset" />
         <File filename="C:\Users\xujie\Desktop\TestPresenter.ini" />
-        <File filename="C:\Users\xujie\Desktop\ljp.txt" />
         <File filename="F:\presenter.110\bin\release\layout\presenterModule\MainFrameWidget.xml" />
         <File filename="E:\gofiles\src\thexujie.com\test\main.go" />
+        <File filename="C:\Users\xujie\Desktop\ljp.txt" />
         <File filename="C:\Program Files\MacType\ini\xujie.ini" />
+        <File filename="F:\template.texball\i18n\zh-CN\layout.ts" />
         <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
+        <File filename="F:\huya-client.trunk\src\dxui\dx10widget.cpp" />
+        <File filename="F:\template.texball\i18n\zh-CN\yygamelive_zh.ts" />
+        <File filename="E:\github\google\protobuf\csharp\src\AddressBook\Addressbook.cs" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -31,7 +31,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="65" y="273" width="1391" height="614" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="557" y="197" width="1318" height="709" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">yes</GUIConfig>
@@ -67,6 +67,7 @@
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="200">
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="dummy" id="0" curr="3" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
