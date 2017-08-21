@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no">
+        <Find name="4.3" />
         <Find name="initVR" />
         <Find name="&#x4E0D;&#x80FD;&#x89C2;&#x770B;" />
         <Find name="on_retryUpload" />
@@ -10,19 +11,18 @@
         <Find name="reqRecentLiveHotWords" />
         <Find name="_S2C_GetRecentLiveHotWords" />
         <Find name="reqRecentLiveWordCloudReq" />
-        <Find name="error" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="E:\github\google\protobuf\csharp\src\AddressBook\AddressBook.xproj" />
+        <File filename="E:\github\google\protobuf\csharp\src\Google.Protobuf.sln" />
+        <File filename="E:\github\thexujie\protobuf\csharp\src\AddressBook\addressbook.data" />
+        <File filename="E:\github\thexujie\protobuf\csharp\src\Google.Protobuf.sln" />
+        <File filename="E:\github\thexujie\protobuf\csharp\src\Google.Protobuf\Google.Protobuf.csproj" />
+        <File filename="E:\github\google\protobuf\csharp\src\Google.Protobuf\Google.Protobuf.csproj" />
         <File filename="C:\Users\xujie\Desktop\TestPresenter.ini" />
-        <File filename="F:\presenter.110\bin\release\layout\presenterModule\MainFrameWidget.xml" />
-        <File filename="E:\gofiles\src\thexujie.com\test\main.go" />
-        <File filename="C:\Users\xujie\Desktop\ljp.txt" />
-        <File filename="C:\Program Files\MacType\ini\xujie.ini" />
-        <File filename="F:\template.texball\i18n\zh-CN\layout.ts" />
-        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
-        <File filename="F:\huya-client.trunk\src\dxui\dx10widget.cpp" />
-        <File filename="F:\template.texball\i18n\zh-CN\yygamelive_zh.ts" />
-        <File filename="E:\github\google\protobuf\csharp\src\AddressBook\Addressbook.cs" />
+        <File filename="F:\trunk.template\i18n\zh-CN\yygamelive_zh.ts" />
+        <File filename="E:\vsfiles\venus\apps\apps.sln" />
+        <File filename="F:\template.730\build.conf" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -31,10 +31,10 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="557" y="197" width="1318" height="709" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="545" y="268" width="1318" height="709" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
-        <GUIConfig name="CheckHistoryFiles">yes</GUIConfig>
+        <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
         <GUIConfig name="MaitainIndent">yes</GUIConfig>
         <GUIConfig name="TagsMatchHighLight" TagAttrHighLight="yes" HighLightNonHtmlZone="no">yes</GUIConfig>
