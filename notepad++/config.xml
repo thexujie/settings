@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no">
+        <Find name="m_nobleEventTips" />
+        <Find name="onNobleEvent" />
+        <Find name="sigOnNobleEvent" />
         <Find name="yyglLiveMainWidget::on_sigStartLiveReady" />
         <Find name="TafCommu::reqBeginLive" />
         <Find name="txt ball" />
@@ -8,21 +11,18 @@
         <Find name="4.3" />
         <Find name="initVR" />
         <Find name="&#x4E0D;&#x80FD;&#x89C2;&#x770B;" />
-        <Find name="on_retryUpload" />
-        <Find name="on_share_uploaded" />
-        <Find name="_S2C_GetRecentLiveWordCloud" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\0.yy.gamelive.config\config\1786631069\config.xml" />
-        <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\presenter\config\1582189283\config.xml" />
         <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\presenter\config\1582189283\cameraconfig.xml" />
         <File filename="F:\trunk.template\cpp\protocol\taf\tafdefine.h" />
-        <File filename="F:\template.730\build.conf" />
         <File filename="C:\Program Files\MacType\ini\xujie.ini" />
         <File filename="F:\template.730\cpp\src\yygamelive\src\mainframe\widgets\gamestreamlive\livemainwidget.cpp" />
         <File filename="F:\template.730\cpp\src\yygamelive\src\mainframe\communicate\tafcommu.cpp" />
-        <File filename="F:\0.huya.pc\presenter\config\1582189283\cameraconfig.xml" />
         <File filename="F:\template.730\i18n\zh-CN\layout.ts" />
+        <File filename="F:\template.730\build.conf" />
+        <File filename="F:\engine.370\src\ingameui\uilogic\dxnobleeventtips.cpp" />
+        <File filename="F:\engine.370\src\ingameui\uilogic\dxnoblelogic.cpp" />
+        <File filename="F:\0.huya.pc\presenter\config\1582189283\cameraconfig.xml" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -31,7 +31,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="416" y="371" width="1318" height="709" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="168" y="226" width="1318" height="709" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
