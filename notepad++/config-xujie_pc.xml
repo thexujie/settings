@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no">
-        <Find name="sendMessage" />
-        <Find name="room id" />
-        <Find name="on_sigRoundReady" />
-        <Find name="ready" />
-        <Find name="readt" />
         <Find name="on_sigStartPKRoundRsp" />
-        <Find name="gameid" />
-        <Find name="HostLiveShareRankReq" />
-        <Find name="rank" />
-        <Find name="hostrank" />
+        <Find name="basewidget" />
+        <Find name="pkgame" />
+        <Find name="&#x4E2A;&#x4EBA;&#x8D44;&#x6599;" />
+        <Find name="uid" />
+        <Find name="_S2C_StartPKRoundRsp" />
+        <Find name="I&apos;m hooked" />
+        <Find name="if (personalImage" />
+        <Find name="m_nobleEventTips" />
+        <Find name="onNobleEvent" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\template.730\cpp\src\yygamelive\src\mainframe\communicate\tafcommu.cpp" />
-        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
-        <File filename="F:\template.730\i18n\zh-CN\layout.ts" />
-        <File filename="D:\games\Overwatch\Overwatch.exe" />
-        <File filename="F:\0.huya.pc\presenterLog.log" />
-        <File filename="F:\template.730\build.conf" />
-        <File filename="F:\presenter.220\build\config\depend.list" />
-        <File filename="F:\files\output\HuyaClient\start_&#x6D4B;&#x8BD5;&#x73AF;&#x5883;.bat" />
-        <File filename="F:\files\output\HuyaClient\start_&#x6B63;&#x5F0F;&#x73AF;&#x5883;.bat" />
-        <File filename="F:\launch.12\doc\&#x53D1;&#x5E03;&#x6D41;&#x7A0B;\&#x53D1;&#x5E03;&#x6D4B;&#x8BD5;&#x9891;&#x9053;&#x811A;&#x672C;\config.conf" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -31,7 +19,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="199" y="476" width="1638" height="715" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="208" y="150" width="1207" height="752" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -51,7 +39,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -65,6 +53,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="200">
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="-1" isVisible="no" />
@@ -74,6 +63,18 @@
             <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_16976743\game_capture_engine\huyagamelive-capture.log" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_16976743\game_capture_engine\RainbowSix.log" />
+        <File filename="C:\Users\xujie\Desktop\client\test.bat" />
+        <File filename="C:\Users\xujie\Desktop\[zmk.tw]Game.of.Thrones.S07E06.Beyond.the.Wall.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT\Game.of.Thrones.S07E06.Beyond.the.Wall.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.OL.v4.ass" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1586300923\game_capture_engine\huyagamelive-capture.log" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1586300923\game_capture_engine\javaw.log" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1845743345\game_capture_engine\huyagamelive-capture.log" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1845743345\yygamelive\huyagamelive.log" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1845743345\game_capture_engine\H1Z1.log" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1845743345\game_capture_engine\TslGame.log" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
