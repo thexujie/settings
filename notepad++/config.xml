@@ -8,16 +8,22 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="war" />
-        <Find name="on_sigStartPKRoundRsp" />
-        <Find name="yyglPkGameDataLogic::on_sigStartPKRoundRsp" />
-        <Find name="pkcount" />
-        <Find name="startPK" />
-        <Find name="TafCommu::reqChangeLiveInfo" />
-        <Find name="uid" />
-        <Find name="yyglPkGameDataLogic::startPKRound" />
-        <Find name="HintingMode" />
-        <Find name="sub" />
+        <Filter name="" />
+        <Filter name="" />
+        <Filter name="" />
+        <Find name="DXPreviewCombineLogic::addCameraLayer" />
+        <Find name="addCameraLayer" />
+        <Find name="addImageLayer" />
+        <Find name="Error" />
+        <Find name="Not supported" />
+        <Find name="AVG_FPS" />
+        <Find name="Resolution" />
+        <Find name="DXPreviewCombineLogic::addImageLayer" />
+        <Find name="on_sigForceChangeStreamSettingNotice" />
+        <Find name="GLUIConfigure" />
+        <Replace name="" />
+        <Replace name="" />
+        <Replace name="" />
         <Replace name="" />
         <Replace name="" />
         <Replace name="" />
@@ -27,16 +33,16 @@
         <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Program Files\MacType\ini\xujie_win7.ini" />
-        <File filename="C:\Users\xujie2\AppData\Roaming\HuyaPc\presenter\config\50016794\cameraconfig2.xml" />
-        <File filename="C:\Users\xujie\Desktop\client\zhihua.bat" />
-        <File filename="C:\Users\xujie\Desktop\client\test.bat" />
-        <File filename="C:\Users\xujie2\Desktop\huyagamelive - &#x526F;&#x672C;.log" />
-        <File filename="C:\Users\xujie2\AppData\Roaming\HuyaPc\presenter\user2.ini" />
-        <File filename="F:\0.yy.huyapc\presenter\log\presenterModule-capture.log.bk" />
-        <File filename="F:\0.yy.huyapc\presenter\log\presenterModule_50016794.log" />
-        <File filename="C:\Program Files\MacType\ini\xujie.ini" />
+        <File filename="C:\Program Files (x86)\HuyaLive\HuyaClient\Newtonsoft.Json.xml" />
+        <File filename="C:\Users\xujie2\Documents\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1717607806\videosdk\videoSdk.log" />
+        <File filename="F:\presenter.220\i18n\zh-CN\layout.ts" />
+        <File filename="F:\engine.373\src\preview\dxpreview\dxpreviewcontainer.cpp" />
+        <File filename="F:\presenter.220\i18n\zh-CN\object.ts" />
+        <File filename="F:\visualizers\vc90.natvis" />
+        <File filename="F:\visualizers\qt4.natvis" />
         <File filename="F:\0.huya.pc\presenter\log\presenterModule-capture.log" />
+        <File filename="F:\engine.373\src\preview\dxpreview\dxpreivewcombinelogic.cpp" />
+        <File filename="F:\presenter.230\cpp\Release_Win32_v90\presenterModule\qttools.tlog" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -45,7 +51,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="237" y="101" width="1425" height="891" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="153" y="46" width="1718" height="971" isMaximized="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -79,9 +85,10 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="250">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="356">
+            <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="dummy" id="0" curr="3" prev="-1" isVisible="yes" />
+            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
