@@ -12,22 +12,16 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Filter name="" />
-        <Filter name="" />
-        <Find name="yyglPkGameFrame::on_sigPkEnded" />
-        <Find name="yyglPkGameLogic::on_sigPkEnded" />
-        <Find name="GameCaptureProxy::on_sigPKJsonInfoNotice" />
-        <Find name="setUid CPU" />
-        <Find name="IEngineImpl::setUid" />
-        <Find name="CDX11Mgr::createDevice use video card " />
-        <Find name="PreviewLogic::_initDX11" />
-        <Find name="optimization level" />
-        <Find name="fps" />
-        <Find name="X264Encoder::encode" />
-        <Replace name="" />
-        <Replace name="" />
-        <Replace name="" />
+        <Find name="delayTimeEdit" />
+        <Find name="GameCaptureProxy::on_sigPKJsonInfoNoticePKInfoNotice" />
+        <Find name="yyglPkGameDataLogic::on_sigPKInfoNotice" />
+        <Find name="yyglPkGameDataLogic::on_sigStartPKRoundRsp" />
+        <Find name="confirmkickofflinkmic" />
+        <Find name="DXPreviewCombineLogic::addCameraLayer" />
+        <Find name="addCameraLayer" />
+        <Find name="addImageLayer" />
+        <Find name="Error" />
+        <Find name="Not supported" />
         <Replace name="" />
         <Replace name="" />
         <Replace name="" />
@@ -40,18 +34,6 @@
         <Replace name="" />
         <Replace name="" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\0.yy.huyapc\presenter\log\presenterModule_1591245082.log" />
-        <File filename="C:\Users\xujie2\Desktop\presenterModule_1682199298.log" />
-        <File filename="F:\engine.374\src\qsvhelper\qsvhelper.vcxproj" />
-        <File filename="E:\github\thexujie\venus\venus.sln" />
-        <File filename="E:\vsfiles\ConsoleApplication3\ConsoleApplication3.sln" />
-        <File filename="E:\github\thexujie\qt5sample\QtProj01\test.qml" />
-        <File filename="E:\vsfiles\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" />
-        <File filename="G:\test\qt5sample\aa.txt" />
-        <File filename="E:\files\onedrive\ssh\thexujie@qq.com\id_rsa.pub" />
-        <File filename="F:\engine.375\src\previewbiz\previewbiz.vcxproj" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -59,7 +41,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="529" y="210" width="1575" height="811" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="273" y="145" width="1416" height="862" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -79,7 +61,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -93,16 +75,29 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="353">
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="356">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="no" />
+            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="F:\template.733\cpp\bin\release\layout.qrc" />
+        <File filename="F:\huyaclient.540\src\dxchecker\dxchecker.h" />
+        <File filename="F:\huyaclient.540\dev_export\include\dxchecker_i.h" />
+        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
+        <File filename="F:\template.730\cpp\bin\release\layout\yygl\yygamelive\setting\advancedParameterPage.xml" />
+        <File filename="F:\launch.12\doc\&#x53D1;&#x5E03;&#x6D41;&#x7A0B;\&#x53D1;&#x5E03;&#x6D4B;&#x8BD5;&#x9891;&#x9053;&#x811A;&#x672C;\config.conf" />
+        <File filename="C:\Users\xujie\Desktop\2017-09-19 crash 8672_0\2017-09-19 crash 8672_0.txt" />
+        <File filename="F:\engine.374\i18n\zh-CN\cameraliveengine_zh.ts" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_126787425\game_capture_engine\huyagamelive-capture.log" />
+        <File filename="E:\files\document\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_126787425\game_capture_engine\gamecapturesvr-capture.log" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
