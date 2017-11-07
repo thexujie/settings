@@ -41,16 +41,16 @@
         <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\0.yy.huyapc\presenter\log\presenterModule_1591245082.log" />
-        <File filename="C:\Users\xujie2\Desktop\presenterModule_1682199298.log" />
-        <File filename="F:\engine.374\src\qsvhelper\qsvhelper.vcxproj" />
-        <File filename="E:\github\thexujie\venus\venus.sln" />
-        <File filename="E:\vsfiles\ConsoleApplication3\ConsoleApplication3.sln" />
-        <File filename="E:\github\thexujie\qt5sample\QtProj01\test.qml" />
-        <File filename="E:\vsfiles\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.vcxproj" />
         <File filename="G:\test\qt5sample\aa.txt" />
         <File filename="E:\files\onedrive\ssh\thexujie@qq.com\id_rsa.pub" />
         <File filename="F:\engine.375\src\previewbiz\previewbiz.vcxproj" />
+        <File filename="E:\github\thexujie\venus.git\README.md" />
+        <File filename="F:\engine.375\src\common\enginecommon.vcproj" />
+        <File filename="C:\Program Files\MacType\ini\xujie.ini" />
+        <File filename="F:\huya-client.dev\src\audiosample\audiosample.pro" />
+        <File filename="F:\presenter.240\cpp\src\audiosample\audiosample.vcproj" />
+        <File filename="F:\presenter.240\cpp\huyaLive.sln" />
+        <File filename="C:\Windows\System32\drivers\etc\hosts" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -59,7 +59,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="529" y="210" width="1575" height="811" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="185" y="218" width="1575" height="811" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20170729">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
