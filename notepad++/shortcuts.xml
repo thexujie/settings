@@ -1,6 +1,7 @@
 <NotepadPlus>
     <InternalCommands>
         <Shortcut id="41014" Ctrl="no" Alt="yes" Shift="no" Key="65" />
+        <Shortcut id="43046" Ctrl="no" Alt="no" Shift="no" Key="0" />
     </InternalCommands>
     <Macros>
         <Macro name="Trim Trailing Space and Save" Ctrl="no" Alt="yes" Shift="yes" Key="83">
@@ -18,6 +19,9 @@
         <Command name="Open file in another instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_FULL_FILE_PATH) $(CURRENT_WORD) -nosession -multiInst</Command>
         <Command name="Send via Outlook" Ctrl="yes" Alt="yes" Shift="yes" Key="79">outlook /a &quot;$(FULL_CURRENT_PATH)&quot;</Command>
     </UserDefinedCommands>
-    <PluginCommands />
+    <PluginCommands>
+        <PluginCommand moduleName="HexEditor.dll" internalID="0" Ctrl="no" Alt="yes" Shift="yes" Key="65" />
+        <PluginCommand moduleName="CSScriptNpp.dll" internalID="17" Ctrl="no" Alt="no" Shift="no" Key="0" />
+    </PluginCommands>
     <ScintillaKeys />
 </NotepadPlus>

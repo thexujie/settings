@@ -70,5 +70,6 @@ http://docs.notepad-plus-plus.org/index.php/Context_Menu
         <Item MenuEntryName="Edit" MenuItemName="Block Uncomment" />
         <Item id="0" />
         <Item MenuEntryName="View" MenuItemName="Hide lines" />
+		<Item PluginEntryName="HEX-Editor" PluginCommandItemName="View in HEX" ItemNameAs="View in HEX" />
     </ScintillaContextMenu>
 </NotepadPlus>
