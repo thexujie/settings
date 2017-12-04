@@ -21,16 +21,24 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="startlive" />
-        <Find name="streamtype" />
-        <Find name="stream type" />
-        <Find name="url" />
-        <Find name="stream*url" />
-        <Find name="stream url" />
-        <Find name="stream" />
-        <Find name="_S2C_OnTvSettleParamRsp" />
-        <Find name="_S2C_OnTvEndRsp" />
-        <Find name="_S2C_OnTvStateRsp" />
+        <Find name="reqOnTvBarrage" />
+        <Find name="on_sigLoterryAppendBarrages" />
+        <Find name="dts" />
+        <Find name="audio" />
+        <Find name="ICaptureImpl::_init" />
+        <Find name="encodeType" />
+        <Find name="encode" />
+        <Find name="my" />
+        <Find name="use vsdk x264" />
+        <Find name="use my" />
+        <Replace name="" />
+        <Replace name="" />
+        <Replace name="" />
+        <Replace name="" />
+        <Replace name="" />
+        <Replace name="" />
+        <Replace name="" />
+        <Replace name="" />
         <Replace name="" />
         <Replace name="" />
         <Replace name="" />
@@ -55,16 +63,16 @@
         <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie2\Desktop\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_2086625788\game_capture_engine\huyagamelive-capture.log" />
-        <File filename="C:\Users\xujie2\Desktop\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_2086625788\game_capture_engine\TslGame.log" />
-        <File filename="F:\0.yy.gamelive.template\467973\set.ini" />
-        <File filename="C:\Users\xujie2\Desktop\huyagamelive.log" />
-        <File filename="C:\Users\xujie2\Documents\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_870418\yygamelive\huyagamelive.log" />
-        <File filename="C:\Users\xujie2\Documents\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_870418\game_capture_engine\huyagamelive-capture.log" />
-        <File filename="C:\Users\xujie2\Documents\WeChat Files\thexujie\Files\2181278196\presenterModule_2181090006.log" />
-        <File filename="C:\Users\xujie2\Documents\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_2181278196\yygamelive\huyagamelive.log" />
-        <File filename="F:\template.736\build.conf" />
-        <File filename="F:\template.tv\build.conf" />
+        <File filename="C:\Users\xujie2\Desktop\20171130\presenterModule_2174472287.log" />
+        <File filename="F:\presenter.240\build\config\depend.list" />
+        <File filename="C:\Users\xujie2\Documents\WeChat Files\thexujie\Files\log\presenterModule_2177004514.log" />
+        <File filename="C:\Users\xujie2\Documents\WeChat Files\thexujie\Files\log\presenterAudioSample.log" />
+        <File filename="C:\Users\xujie2\AppData\Roaming\HuyaPc\presenter\log\presenterModule_50016794.log" />
+        <File filename="F:\0.yy.gamelive.log\game_capture_engine\huyagamelive-capture.log" />
+        <File filename="C:\Users\xujie\Desktop\test.html" />
+        <File filename="F:\template.736\cpp\src\yygamelive\src\mainframe\logics\huyawartermarklogic.cpp" />
+        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
+        <File filename="F:\presenter.250\build.conf" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -73,8 +81,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="92" y="143" width="1530" height="737" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20171129">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="245" y="60" width="1530" height="993" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20171216">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -107,7 +115,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="176">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="300">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
