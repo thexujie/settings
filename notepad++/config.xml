@@ -21,30 +21,30 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="propertymsglogic" />
-        <Find name="chatmsglogic" />
-        <Find name="option" />
-        <Find name="ingame" />
-        <Find name="hd.huya.com" />
-        <Find name="test.www.huya.com" />
-        <Find name="hd.huya" />
-        <Find name="hd.huya.comm" />
-        <Find name="hd.huya.comm " />
-        <Find name="invalid data" />
+        <Find name="graphics" />
+        <Find name="FFMPEG_CONFIG_H" />
+        <Find name="config.h" />
+        <Find name="enco" />
+        <Find name="arch" />
+        <Find name="check_cppflags" />
+        <Find name="check_cc" />
+        <Find name="cfg" />
+        <Find name="check" />
+        <Find name="tmp" />
+        <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Windows\System32\drivers\etc\hosts.ics_new" />
-        <File filename="C:\Windows\System32\drivers\etc\hosts_backup" />
-        <File filename="E:\shares\hosts" />
-        <File filename="C:\Users\xujie\Desktop\PropsServant.jce_src\PropsServant.jce_src\HUYA\PropsItem.h" />
-        <File filename="F:\template.dev\cpp\protocol\taf\HUYA\ItemType.h" />
-        <File filename="C:\Windows\System32\drivers\etc\hosts" />
-        <File filename="F:\0.huya.pc\presenter\user2.ini" />
-        <File filename="F:\0.huya.pc\presenter\config\1582189283\cameraconfig2.xml" />
-        <File filename="F:\engine.377\src\gamecapturesdk\gamecapturesdk64.vcproj" />
-        <File filename="F:\0.huya.pc\presenter\business\yygamelive\user.ini" />
+        <File filename="E:\github\FFmpeg\FFmpeg\build_x64\ffbuild\config.log" />
+        <File filename="E:\github\thexujie\testfp\debug.txt" />
+        <File filename="E:\github\FFmpeg\FFmpeg\doc\examples\decode_audio.c" />
+        <File filename="E:\github\thexujie\testfp\.gitignore" />
+        <File filename="E:\vsfiles\testfp\testfp\simplest_ffmpeg_audio_player_2.2\simplest_ffmpeg_audio_player\simplest_ffmpeg_audio_player.vcxproj" />
+        <File filename="E:\github\FFmpeg\FFmpeg\doc\examples\resampling_audio.c" />
+        <File filename="E:\vsfiles2\SDL2-2.0.7\test\loopwave.c" />
+        <File filename="E:\vsfiles2\SDL2-2.0.7\VisualC\tests\loopwave\loopwave.vcxproj" />
+        <File filename="C:\ProgramData\Microsoft\Network\Downloader\edbtmp.log" />
+        <File filename="C:\Windows\Logs\CBS\CBS.log" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -53,8 +53,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="287" y="20" width="1569" height="957" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180102">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="240" y="42" width="1452" height="841" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180117">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -87,7 +87,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="473">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="388">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
