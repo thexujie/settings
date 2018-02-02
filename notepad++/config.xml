@@ -21,31 +21,31 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="install dotnet cli" />
-        <Find name="install dotnet" />
-        <Find name="dotnet" />
-        <Find name="download" />
-        <Find name="donet" />
-        <Find name="Restoring packages" />
-        <Find name="Restoring packages " />
-        <Find name="CustomBuild" />
-        <Find name="SelectCustomBuild" />
-        <Find name="custom" />
+        <Find name="OnTvLastConfig_GiftListMd5" />
+        <Find name="%1seconds" />
+        <Find name="CodeLogic" />
+        <Find name="%1 per" />
+        <Find name="ON TV" />
+        <Find name="contains illegal word" />
+        <Find name="Mode:" />
+        <Find name="PK Mode" />
+        <Find name="OnTvLastSelect_Duration" />
+        <Find name="ontv" />
         <Replace name="" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\Microsoft.Common.targets" />
-        <File filename="C:\Users\xujie\Desktop\117.html" />
-        <File filename="C:\Users\xujie\Desktop\system.dynamic.runtime.4.0.11-rc3-24128-00.nupkg" />
-        <File filename="E:\github\Microsoft\msbuild\NuGet.Config" />
-        <File filename="E:\github\Microsoft\msbuild\cibuild.cmd" />
-        <File filename="E:\github\Microsoft\msbuild\README.md" />
-        <File filename="E:\github\Microsoft\msbuild\Tools\tool-runtime\project.lock.json" />
-        <File filename="E:\github\Microsoft\msbuild\packages\microsoft.dotnet.buildtools\1.0.27-prerelease-00927-05\lib\tool-runtime\project.json" />
-        <File filename="E:\github\Microsoft\msbuild\init-tools.log" />
-        <File filename="C:\Users\xujie\AppData\Roaming\NuGet\NuGet.Config" />
+        <File filename="F:\template.dev\i18n\zh-CN\yygamelive_zh.ts" />
+        <File filename="F:\0.yy.gamelive.config\user.ini" />
+        <File filename="F:\template.741\build.conf" />
+        <File filename="F:\template.dev\i18n\zh-CN\layout.ts" />
+        <File filename="C:\huyatest111.dat" />
+        <File filename="F:\0.yy.gamelive.log\game_capture_engine\huyagamelive-capture.log" />
+        <File filename="C:\Users\xujie\Desktop\OnTVServant.jce_src\OnTVServant.jce_src\OnTVServant.jce" />
+        <File filename="F:\huya.729\HuyaClient\HuyaClient\HuyaClient.csproj" />
+        <File filename="E:\github\thexujie\CompileProblems\CompileProblems2\CopyToFile.targets" />
+        <File filename="E:\github\thexujie\CompileProblems\CompileProblems2\CompileProblems2.vcxproj" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -54,8 +54,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="458" y="338" width="1392" height="834" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180201">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="356" y="231" width="1392" height="743" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180216">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -88,7 +88,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="335">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="164">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
