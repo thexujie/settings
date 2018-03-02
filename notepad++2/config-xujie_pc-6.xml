@@ -21,32 +21,20 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="is award" />
-        <Find name="on_sigOnSpecialUserEnterNotice" />
-        <Find name="sigOnSpecialUserEnterNotice" />
-        <Find name="YYSvrCallBack" />
-        <Find name="&#x6B66;&#x5BB6;&#x519B;" />
-        <Find name="on_sigOnTvSettleParam" />
-        <Find name="_OnStartLiveReady" />
-        <Find name="start" />
-        <Find name="before encode " />
-        <Find name="before" />
+        <Find name="..\..\" />
+        <Find name="pdb" />
+        <Find name="_PlatformFolder" />
+        <Find name="VCTargetsPath" />
+        <Find name="GetVSCommonToolsDir" />
+        <Find name="GetVSCommonToolsDirHelper32" />
+        <Find name="error_no_VS120COMNTOOLSDIR" />
+        <Find name="graphics" />
+        <Find name="FFMPEG_CONFIG_H" />
+        <Find name="config.h" />
         <Replace name="" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie2\Desktop\b2fc21_17762943\log\presenterModule_1760916811.log" />
-        <File filename="C:\Users\xujie2\Desktop\vs2017_thexujie2.vssettings" />
-        <File filename="C:\Users\xujie2\Desktop\20180213\log\yygamelive\huyagamelive.log.bk.bk" />
-        <File filename="C:\Users\xujie2\Desktop\20180213\log\game_capture_engine\huyagamelive-capture.log.bk" />
-        <File filename="C:\Users\xujie2\Desktop\20180213\log\game_capture_engine\huyagamelive-capture.log" />
-        <File filename="C:\Users\xujie2\Desktop\20180213\log\yygamelive\huyagamelive.log" />
-        <File filename="C:\Users\xujie2\Desktop\log\presenterModule_1681285644.log" />
-        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
-        <File filename="F:\template.dev\i18n\zh-CN\layout.ts" />
-        <File filename="E:\files\docs\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1261516128\yygamelive\huyagamelive.log" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -54,8 +42,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="24" y="115" width="1527" height="818" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180315">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="669" y="92" width="1452" height="841" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180117">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -74,7 +62,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -88,7 +76,8 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="358">
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="388">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
@@ -99,6 +88,18 @@
             <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="E:\github\FFmpeg\FFmpeg\ffb.txt" />
+        <File filename="E:\vsfiles2\SDL2-2.0.7\VisualC\SDL\SDL.vcxproj" />
+        <File filename="F:\engine.379\src\codeclogic\ffmpegmuxer\ffmpegmuxer.vcxproj" />
+        <File filename="F:\engine.379\src\codeclogic\ffmpegmuxer\sdl2\SDL2.vcxproj" />
+        <File filename="E:\github\FFmpeg\FFmpeg\fftools\ffplay.c" />
+        <File filename="F:\presenter.270\build.conf" />
+        <File filename="E:\files\onedrive\settings\Console.reg" />
+        <File filename="C:\Users\xujie\Desktop\ffmpegmuxer\audioplayer.cpp" />
+        <File filename="C:\Users\xujie\Desktop\ffmpegmuxer\audioplayer.h" />
+        <File filename="C:\Users\xujie\Desktop\zm\Marvel&apos;s.Agents.of.S.H.I.E.L.D.S02.WEB-DL\Marvel&apos;s.Agents.of.S.H.I.E.L.D.S02E19.The.Dirty.Half.Dozen.720p.WEB-DL.DD5.1.H.264-BS.&#x7B80;&#x4F53;&amp;&#x82F1;&#x6587;.ass" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
