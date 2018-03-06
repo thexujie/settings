@@ -21,33 +21,19 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="X264EncodeModule::resetEncoder" />
-        <Find name="X264EncodeImpl::onEncodePicture" />
-        <Find name="X264EncodeModule::onVideoSizeChanged" />
-        <Find name="X264EncodeModule::init" />
-        <Find name="X264EncodeImpl::convert444toI420" />
-        <Find name="opencl" />
-        <Find name="growth will continue to expand the jackpot, ship votes caps %1 Raffle tickets" />
-        <Find name="reqOnTvStart" />
-        <Find name="_S2C_PacketOnTVAutoAwardNotice" />
-        <Find name="uid" />
-        <Replace name="" />
+        <Find name="get_hwaccel" />
+        <Find name="get_format" />
+        <Find name="dxmarkvideoguide" />
+        <Find name="is award" />
+        <Find name="on_sigOnSpecialUserEnterNotice" />
+        <Find name="sigOnSpecialUserEnterNotice" />
+        <Find name="YYSvrCallBack" />
+        <Find name="&#x6B66;&#x5BB6;&#x519B;" />
+        <Find name="on_sigOnTvSettleParam" />
+        <Find name="_OnStartLiveReady" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie2\Desktop\20180213\log\yygamelive\huyagamelive.log" />
-        <File filename="C:\Users\xujie2\Desktop\log\presenterModule_1681285644.log" />
-        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
-        <File filename="F:\template.dev\i18n\zh-CN\layout.ts" />
-        <File filename="G:\BaiduNetdiskDownload\&#x59D4;&#x5185;&#x745E;&#x62C9;&#x3002;&#x5B89;&#x8D6B;&#x5C14;&#x7011;&#x5E03;&#x3002;&#x822A;&#x62CD;VR.8K\&#x59D4;&#x5185;&#x745E;&#x62C9;&#x3002;&#x5B89;&#x8D6B;&#x5C14;&#x7011;&#x5E03;&#x3002;&#x7A7A;&#x4E2D;8K&#x89C6;&#x9891;_&#x5206;&#x8FA8;&#x7387;&#x8FBE;7680@3840\&#x66F4;&#x591A;&#x7CBE;&#x5F69;VR4K&#x8D85;&#x6E05;&#x89C6;&#x9891;&#x70B9;&#x8FD9;.txt" />
-        <File filename="E:\github\intel-Media-SDK\MediaSDK\builder\FindOpenCL.cmake" />
-        <File filename="F:\template.dev\i18n\zh-CN\yygamelive_zh.ts" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zOCAFA1797\route.print.txt" />
-        <File filename="E:\github\intel-Media-SDK\MediaSDK\CMakeLists.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zOCAFD02A7\ipconfig.all.txt" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -55,7 +41,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="102" y="308" width="1527" height="818" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="481" y="365" width="1527" height="818" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180315">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -75,7 +61,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -89,6 +75,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="358">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
@@ -97,10 +84,21 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="C:\Users\xujie2\Desktop\20180213\log\yygamelive\huyagamelive.log" />
+        <File filename="C:\Users\xujie2\Desktop\log\presenterModule_1681285644.log" />
+        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
+        <File filename="F:\template.dev\i18n\zh-CN\layout.ts" />
+        <File filename="E:\files\docs\WeChat Files\thexujie\Files\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_1261516128\yygamelive\huyagamelive.log" />
+        <File filename="F:\engine.380\src\ingameui\ingameui.pro" />
+        <File filename="F:\engine.380\src\ingameui\ingameui64.vcproj" />
+        <File filename="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Utilities\bin\x64\Resource_Usage.PIXCounterset" />
+        <File filename="E:\shares\ffmpeg_dxva2_sample\ffmpeg_dxva2.c" />
+        <File filename="E:\shares\ffmpeg_dxva2_sample\ffmpeg_dxva2_sample.cpp" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />

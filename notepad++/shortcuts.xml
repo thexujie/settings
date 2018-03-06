@@ -2,6 +2,33 @@
     <InternalCommands>
         <Shortcut id="41014" Ctrl="no" Alt="yes" Shift="no" Key="65" />
         <Shortcut id="43046" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43022" Ctrl="no" Alt="yes" Shift="no" Key="49" />
+        <Shortcut id="43024" Ctrl="no" Alt="yes" Shift="no" Key="50" />
+        <Shortcut id="43026" Ctrl="no" Alt="yes" Shift="no" Key="51" />
+        <Shortcut id="43028" Ctrl="no" Alt="yes" Shift="no" Key="52" />
+        <Shortcut id="43030" Ctrl="no" Alt="yes" Shift="no" Key="53" />
+        <Shortcut id="43023" Ctrl="yes" Alt="yes" Shift="no" Key="49" />
+        <Shortcut id="43025" Ctrl="yes" Alt="yes" Shift="no" Key="50" />
+        <Shortcut id="43027" Ctrl="yes" Alt="yes" Shift="no" Key="51" />
+        <Shortcut id="43029" Ctrl="yes" Alt="yes" Shift="no" Key="52" />
+        <Shortcut id="43031" Ctrl="yes" Alt="yes" Shift="no" Key="53" />
+        <Shortcut id="43032" Ctrl="yes" Alt="yes" Shift="no" Key="48" />
+        <Shortcut id="44051" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44052" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44053" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44054" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44055" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44056" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44057" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44058" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44061" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44062" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44063" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44064" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44065" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44066" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44067" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44068" Ctrl="no" Alt="no" Shift="no" Key="0" />
     </InternalCommands>
     <Macros>
         <Macro name="Trim Trailing Space and Save" Ctrl="no" Alt="yes" Shift="yes" Key="83">
@@ -20,8 +47,8 @@
         <Command name="Send via Outlook" Ctrl="yes" Alt="yes" Shift="yes" Key="79">outlook /a &quot;$(FULL_CURRENT_PATH)&quot;</Command>
     </UserDefinedCommands>
     <PluginCommands>
-        <PluginCommand moduleName="HexEditor.dll" internalID="0" Ctrl="no" Alt="yes" Shift="yes" Key="65" />
         <PluginCommand moduleName="CSScriptNpp.dll" internalID="17" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <PluginCommand moduleName="DSpellCheck.dll" internalID="0" Ctrl="no" Alt="no" Shift="no" Key="0" />
     </PluginCommands>
     <ScintillaKeys />
 </NotepadPlus>
