@@ -22,6 +22,8 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
+        <Find name="-D" />
+        <Find name="debug" />
         <Find name="X264EncodeModule::resetEncoder" />
         <Find name="X264EncodeImpl::onEncodePicture" />
         <Find name="X264EncodeModule::onVideoSizeChanged" />
@@ -30,23 +32,21 @@
         <Find name="opencl" />
         <Find name="growth will continue to expand the jackpot, ship votes caps %1 Raffle tickets" />
         <Find name="reqOnTvStart" />
-        <Find name="_S2C_PacketOnTVAutoAwardNotice" />
-        <Find name="uid" />
         <Replace name="" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie2\Desktop\20180213\log\yygamelive\huyagamelive.log" />
-        <File filename="C:\Users\xujie2\Desktop\log\presenterModule_1681285644.log" />
-        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
-        <File filename="F:\template.dev\i18n\zh-CN\layout.ts" />
-        <File filename="G:\BaiduNetdiskDownload\&#x59D4;&#x5185;&#x745E;&#x62C9;&#x3002;&#x5B89;&#x8D6B;&#x5C14;&#x7011;&#x5E03;&#x3002;&#x822A;&#x62CD;VR.8K\&#x59D4;&#x5185;&#x745E;&#x62C9;&#x3002;&#x5B89;&#x8D6B;&#x5C14;&#x7011;&#x5E03;&#x3002;&#x7A7A;&#x4E2D;8K&#x89C6;&#x9891;_&#x5206;&#x8FA8;&#x7387;&#x8FBE;7680@3840\&#x66F4;&#x591A;&#x7CBE;&#x5F69;VR4K&#x8D85;&#x6E05;&#x89C6;&#x9891;&#x70B9;&#x8FD9;.txt" />
-        <File filename="E:\github\intel-Media-SDK\MediaSDK\builder\FindOpenCL.cmake" />
-        <File filename="F:\template.dev\i18n\zh-CN\yygamelive_zh.ts" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zOCAFA1797\route.print.txt" />
-        <File filename="E:\github\intel-Media-SDK\MediaSDK\CMakeLists.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zOCAFD02A7\ipconfig.all.txt" />
+        <File filename="E:\github\FFmpeg\FFmpeg\build_x64d\config.asm" />
+        <File filename="E:\github\FFmpeg\FFmpeg\build_x64d\Makefile" />
+        <File filename="D:\devs\msys64\msys2_vs2017_x64.cmd" />
+        <File filename="E:\github\FFmpeg\FFmpeg\build_x64d\ffbuild\config.mak" />
+        <File filename="E:\github\FFmpeg\FFmpeg\Makefile" />
+        <File filename="C:\Program Files\DXVA Checker\ReadMe.txt" />
+        <File filename="E:\github\FFmpeg\FFmpeg\ffb.txt" />
+        <File filename="E:\github\FFmpeg\FFmpeg\configure" />
+        <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\presenter\business\yygamelive\user.ini" />
+        <File filename="F:\0.yy.gamelive.config\user.ini" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -55,7 +55,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="102" y="308" width="1527" height="818" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="163" y="182" width="1527" height="815" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180315">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -97,8 +97,7 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
