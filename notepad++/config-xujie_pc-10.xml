@@ -21,16 +21,16 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="on_sigLiveSharedNotify" />
-        <Find name="liveshare" />
-        <Find name="share" />
-        <Find name="live" />
         <Find name="wgtSentItem" />
         <Find name="&#x7535;&#x89C6;&#x5F39;&#x5E55;&#x4F55;&#x5176;&#x591A;" />
         <Find name="&#x4F55;&#x5176;&#x591A;" />
         <Find name="GameCaptureProxy::_OnGameCVDetectedResult" />
         <Find name="LAN IP:" />
         <Find name="lan ip" />
+        <Find name="Android Mobile Live step2" />
+        <Find name="&#x4F7F;&#x7528;&#x864E;&#x7259;&#x624B;&#x6E38;" />
+        <Find name="&#x4F7F;&#x7528;&#x864E;&#x7259;&#x52A9;&#x624B;" />
+        <Find name="&#x5168;&#x7A0B;&#x8BF7;&#x4FDD;&#x6301;&#x7535;&#x8111;&#x4E0E;&#x624B;&#x673A;" />
         <Replace name="" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
@@ -42,7 +42,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="70" y="38" width="1527" height="941" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="56" y="89" width="1527" height="941" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180331">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -89,16 +89,16 @@
         </GUIConfig>
     </GUIConfigs>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\{26eeb9db-88f2-4f74-b78e-a6688198a7b0}\presenterModule_1582189283.log" />
+        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\{26eeb9db-88f2-4f74-b78e-a6688198a7b0}\presenterModule-capture.log" />
+        <File filename="C:\Users\xujie2\AppData\Local\Temp\Temp1_e99b55_24037076.zip\presenterModule-capture.log" />
+        <File filename="F:\template.dev\cpp\src\yygamelive\src\mainframe\colorfulTV\yyglColorfulTVLotteryResultFrame.cpp" />
+        <File filename="F:\template.dev\cpp\bin\release\layout\yygl\yygamelive\gamelive\colorfulTV\yyglColorfulTVLotteryResultFrame.xml" />
+        <File filename="F:\template.742\i18n\zh-CN\layout.ts" />
+        <File filename="F:\template.dev\i18n\zh-CN\layout.ts" />
+        <File filename="E:\github\FFmpeg2\libavformat\flvdec.c" />
+        <File filename="E:\github\FFmpeg2\libavformat\flv.h" />
         <File filename="G:\media\videos\musics\Let It Go.flv" />
-        <File filename="E:\files\onedrive\xujie\Let It Go.flv" />
-        <File filename="C:\Users\xujie2\Desktop\huyagamelive.log" />
-        <File filename="C:\Users\xujie2\Desktop\huyagamelive-capture.log" />
-        <File filename="F:\template.733\doc\&#x53D1;&#x5E03;&#x6D41;&#x7A0B;\&#x53D1;&#x5E03;&#x6D4B;&#x8BD5;&#x9891;&#x9053;&#x811A;&#x672C;\config.conf" />
-        <File filename="F:\launch.12\build.conf" />
-        <File filename="F:\presenter.301\build.conf" />
-        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
-        <File filename="F:\0.yy.gamelive.log\yygamelive\huyagamelive.log" />
-        <File filename="C:\Windows\System32\drivers\etc\HOSTS" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
