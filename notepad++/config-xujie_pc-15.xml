@@ -21,31 +21,19 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="block banners of noble and guardian open/reopen" />
-        <Find name="months" />
-        <Find name="TextOutScp" />
-        <Find name="PopClip" />
-        <Find name="videoThread" />
-        <Find name="videoplay" />
-        <Find name="bin" />
-        <Find name="record" />
-        <Find name="vp" />
-        <Find name="error" />
+        <Find name="refresh_loop_wait_event" />
+        <Find name="loop" />
+        <Find name="GameCaptureProxy::_OnGameCVDetectedResult" />
+        <Find name="&gt;read req" />
+        <Find name="GetOverlappedResult" />
+        <Find name="447A0100" />
+        <Find name="dataThread" />
+        <Find name="err" />
+        <Find name="HuyaPlayer::dataThread" />
+        <Find name="flv" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="E:\vsrepo\market\agg-2.5\examples\blur.cpp" />
-        <File filename="F:\files\samples\d3d9\PixelMotionBlur.fx" />
-        <File filename="E:\vsrepo\venus\win32\uniscribe\CTextLayoutUsp.cpp" />
-        <File filename="C:\Users\xujie\Desktop\abc.patch" />
-        <File filename="F:\engine.381\i18n\zh-CN\layout.ts" />
-        <File filename="C:\Users\xujie\Desktop\outgameui.patch" />
-        <File filename="F:\IVPlayerDemo\ivsr\ivsr-info.json" />
-        <File filename="F:\IVPlayerDemo\ivsr\20180306102910793private.p12" />
-        <File filename="F:\template.742\i18n\zh-CN\layout.ts" />
-        <File filename="E:\vsrepo\testfp\debug.txt" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -53,8 +41,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="90" y="613" width="1527" height="786" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180417">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="298" y="84" width="1527" height="806" isMaximized="yes" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180331">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -73,7 +61,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -87,7 +75,8 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="297">
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="395">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
@@ -98,6 +87,18 @@
             <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="E:\github\thexujie\CompileProblems\CompileProblems2\x64\Debug\CompileProblems2.tlog\CopyToFile.write.1u.tlog" />
+        <File filename="C:\Users\xujie2\Desktop\be79f7_26536313\yygamelive\huyagamelive.log" />
+        <File filename="C:\Users\xujie2\Desktop\be79f7_26536313\yygamelive\huyagamelive.log.bk" />
+        <File filename="F:\0.yy.huyapc\presenter\log\huyaplayerModule.plog" />
+        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
+        <File filename="C:\Users\xujie\Desktop\GameLiveBase.jce_src(1)\GameLiveBase.jce_src\HUYA\EDecorationAppType.h" />
+        <File filename="C:\Users\xujie\Desktop\checkRoomServant.jce_src\checkRoomServant.jce_src\checkRoomServant.jce" />
+        <File filename="F:\template.dev\cpp\src\yygamelive\src\mainframe\communicate\imagerecognizer\recognizer_ipcinfo.h" />
+        <File filename="E:\vsrepo\testfp\FFmpegSamples\ffplayer.c" />
+        <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\presenter\log\player.plog" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />

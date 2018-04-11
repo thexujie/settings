@@ -21,31 +21,19 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="block banners of noble and guardian open/reopen" />
-        <Find name="months" />
-        <Find name="TextOutScp" />
-        <Find name="PopClip" />
-        <Find name="videoThread" />
-        <Find name="videoplay" />
-        <Find name="bin" />
-        <Find name="record" />
-        <Find name="vp" />
-        <Find name="error" />
+        <Find name="render" />
+        <Find name="RenderScenePS" />
+        <Find name="FFmpegVideoDecoder::readFrame read" />
+        <Find name="FlvReciever::parseVideoData" />
+        <Find name="invalid frame" />
+        <Find name="pendding" />
+        <Find name="flv video" />
+        <Find name="FFmpegVideoDecoder::initDecoder" />
+        <Find name="pipe::~pipe" />
+        <Find name="invalid aac header" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="E:\vsrepo\market\agg-2.5\examples\blur.cpp" />
-        <File filename="F:\files\samples\d3d9\PixelMotionBlur.fx" />
-        <File filename="E:\vsrepo\venus\win32\uniscribe\CTextLayoutUsp.cpp" />
-        <File filename="C:\Users\xujie\Desktop\abc.patch" />
-        <File filename="F:\engine.381\i18n\zh-CN\layout.ts" />
-        <File filename="C:\Users\xujie\Desktop\outgameui.patch" />
-        <File filename="F:\IVPlayerDemo\ivsr\ivsr-info.json" />
-        <File filename="F:\IVPlayerDemo\ivsr\20180306102910793private.p12" />
-        <File filename="F:\template.742\i18n\zh-CN\layout.ts" />
-        <File filename="E:\vsrepo\testfp\debug.txt" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -53,8 +41,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="90" y="613" width="1527" height="786" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180417">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="313" y="46" width="1527" height="956" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180331">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -73,7 +61,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -87,10 +75,11 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="297">
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="210">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
-            <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
+            <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="CS-Script" id="6" curr="3" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
@@ -98,6 +87,18 @@
             <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="E:\samples\Samples\C++\Direct3D11\Tutorials\Tutorial01\Tutorial01.cpp" />
+        <File filename="E:\samples\Samples\C++\Direct3D11\BasicHLSL11\BasicHLSL11_VS.hlsl" />
+        <File filename="E:\vsrepo\Intel Media Samples 6.0.0.49\sample_decode\src\pipeline_decode.cpp" />
+        <File filename="E:\samples\Samples\C++\Direct3D11\DDSWithoutD3DX11\DDSWithoutD3DX11.cpp" />
+        <File filename="E:\samples\Samples\C++\Direct3D11\SimpleSample11\SimpleSample.hlsl" />
+        <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\presenter\log\player.plog" />
+        <File filename="E:\samples\Samples\C++\Direct3D11\DDSWithoutD3DX11\DDSWithoutD3DX.hlsl" />
+        <File filename="E:\samples\Samples\C++\Direct3D11\BasicHLSL11\BasicHLSL11.cpp" />
+        <File filename="E:\samples\Samples\C++\Direct3D11\DecalTessellation11\DecalTessellation11.cpp" />
+        <File filename="E:\vsrepo\testfp\Debug_x64_v141\shader.hlsl" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
