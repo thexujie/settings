@@ -21,7 +21,6 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="allo" />
         <Find name="VideoPlayer" />
         <Find name="FFmpegAudioDecoder::decoderThread" />
         <Find name="checkroom" />
@@ -31,6 +30,7 @@
         <Find name="videoplay" />
         <Find name="bin" />
         <Find name="record" />
+        <Find name="vp" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
@@ -41,7 +41,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="139" y="154" width="1714" height="750" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="196" y="243" width="1527" height="667" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180417">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -88,16 +88,16 @@
         </GUIConfig>
     </GUIConfigs>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="E:\vsrepo\Intel Media Samples 6.0.0.49\third_party_programs.txt" />
+        <File filename="F:\yy\files\start.bat" />
         <File filename="E:\vsrepo\Intel Media Samples 6.0.0.49\set_INTELMEDIASDK_WINSDK_PATH.bat" />
         <File filename="E:\files\document\Intel&#x00AE; Media SDK 2018 R1 - Media Samples 8.3.26.352\sample_common\src\sample_utils.cpp" />
         <File filename="E:\files\document\Intel&#x00AE; Media SDK 2018 R1 - Media Samples 8.3.26.352\sample_decode\src\sample_decode.cpp" />
         <File filename="F:\launch.12\build.conf" />
         <File filename="E:\vsrepo\testfp\player.natvis" />
-        <File filename="F:\0.huya.pc\presenter\log\checkprocess.log" />
-        <File filename="E:\vsfiles\venus\venus\core\core_api.h" />
-        <File filename="F:\yy\files\start.bat" />
-        <File filename="E:\vsfiles\venus\venus\core\core_def.h" />
+        <File filename="F:\0.yy.huyapc\presenter\log\player.plog" />
         <File filename="F:\yy\0.huya.pc\presenter\log\player.plog" />
+        <File filename="E:\vsrepo\testfp\testfp.sln" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
