@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no" isSearch2ButtonsMode="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no">
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
@@ -21,32 +21,19 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="audio" />
-        <Find name="audioo" />
-        <Find name="samplerate" />
-        <Find name="441" />
+        <Find name="Expand&lt;" />
+        <Find name="yyglGamePKLogic" />
         <Find name="You want to quit game PK" />
-        <Find name="DXGIFactory" />
-        <Find name="D3D11Device" />
-        <Find name="initrender" />
-        <Find name="err" />
-        <Find name=" Fold" />
+        <Find name="TafCommu::reqGamePKKill" />
+        <Find name="UA" />
+        <Find name="linkmic" />
+        <Find name="gamepk" />
+        <Find name="[test]" />
+        <Find name="TafCommu::init" />
+        <Find name="link" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\0.yy.log\yygamelive\huyagamelive.log" />
-        <File filename="F:\template.080514\i18n\zh-CN\layout.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\hylinkmic.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\giftmanage.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\yygameliveentry_zh.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\yygamelive_zh.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\phone.ts" />
-        <File filename="F:\engine.383\src\previewbiz\previewbiz.qrc" />
-        <File filename="F:\0.yy.log\huyaclient\streamdecode_1786631069.log" />
-        <File filename="F:\0.yy.config\config\1786631069\config2.xml" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -54,7 +41,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="150" y="162" width="1710" height="837" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="209" y="39" width="1710" height="938" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180531">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -74,7 +61,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -88,6 +75,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="352">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
@@ -96,10 +84,21 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="F:\template.080514\i18n\zh-CN\giftmanage.ts" />
+        <File filename="F:\template.080514\i18n\zh-CN\yygameliveentry_zh.ts" />
+        <File filename="F:\template.080514\i18n\zh-CN\yygamelive_zh.ts" />
+        <File filename="F:\template.080514\i18n\zh-CN\phone.ts" />
+        <File filename="F:\template.080514\i18n\zh-CN\hylinkmic.ts" />
+        <File filename="F:\0.yy.log\yygamelive\huyagamelive.log" />
+        <File filename="E:\vsrepo\testfp\deps\ffmpeg\include\libavutil\rational.h" />
+        <File filename="C:\Users\xujie\Desktop\GameLiveBase.jce_src(10)\GameLiveBase.jce_src\HUYA\GamePKReadyNotice.h" />
+        <File filename="F:\template.080514\i18n\zh-CN\layout.ts" />
+        <File filename="F:\yy\0.huya.pc\presenter\log\huyaplayerModule.plog" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
