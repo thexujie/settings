@@ -21,31 +21,30 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="audio" />
-        <Find name="audioo" />
-        <Find name="samplerate" />
-        <Find name="441" />
-        <Find name="You want to quit game PK" />
-        <Find name="DXGIFactory" />
-        <Find name="D3D11Device" />
-        <Find name="initrender" />
-        <Find name="err" />
-        <Find name=" Fold" />
+        <Find name="on_sigGetGameInfoList" />
+        <Find name="game_id=" />
+        <Find name="on_sigGameInfoChangeNotice" />
+        <Find name="on_sigResumeGameResp" />
+        <Find name="GambleLogic" />
+        <Find name="GambleLogic::on_sigBatchStartGameResp" />
+        <Find name="bitrateValue" />
+        <Find name="blur-ray 8M" />
+        <Find name="configrate automatic" />
+        <Find name="RoomWaterMarkEnabled" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="F:\presenter.332\i18n\zh-CN\boatLottery.ts" />
+        <File filename="F:\presenter.332\i18n\zh-CN\presenterModule.ts" />
+        <File filename="F:\presenter.332\i18n\zh-CN\object.ts" />
+        <File filename="F:\presenter.332\i18n\zh-CN\layout.ts" />
+        <File filename="F:\presenter.332\i18n\zh-CN\hySettingsWindow.ts" />
+        <File filename="F:\presenter.332\i18n\zh-CN\hylinkmic.ts" />
         <File filename="F:\0.yy.log\yygamelive\huyagamelive.log" />
-        <File filename="F:\template.080514\i18n\zh-CN\layout.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\hylinkmic.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\giftmanage.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\yygameliveentry_zh.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\yygamelive_zh.ts" />
-        <File filename="F:\template.080514\i18n\zh-CN\phone.ts" />
-        <File filename="F:\engine.383\src\previewbiz\previewbiz.qrc" />
-        <File filename="F:\0.yy.log\huyaclient\streamdecode_1786631069.log" />
-        <File filename="F:\0.yy.config\config\1786631069\config2.xml" />
+        <File filename="F:\template.745\build.conf" />
+        <File filename="C:\Users\xujie\Desktop\play.csv" />
+        <File filename="F:\0.yy.huyapc\presenter\log\hyasdk_player_0.log" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -54,8 +53,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="150" y="162" width="1710" height="837" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180531">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="1216" y="221" width="1940" height="1100" isMaximized="yes" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180621">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -88,7 +87,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="352">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="459">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
@@ -96,8 +95,7 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
