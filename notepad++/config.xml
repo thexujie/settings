@@ -21,30 +21,30 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="on_sigGetGameInfoList" />
-        <Find name="game_id=" />
-        <Find name="on_sigGameInfoChangeNotice" />
-        <Find name="on_sigResumeGameResp" />
-        <Find name="GambleLogic" />
-        <Find name="GambleLogic::on_sigBatchStartGameResp" />
-        <Find name="bitrateValue" />
-        <Find name="blur-ray 8M" />
-        <Find name="configrate automatic" />
-        <Find name="RoomWaterMarkEnabled" />
+        <Find name="httpBindInterface" />
+        <Find name="msvc_deps_prefix" />
+        <Find name="rule cc" />
+        <Find name="command" />
+        <Find name="Barrage" />
+        <Find name="env_setup " />
+        <Find name="bin " />
+        <Find name="amd64" />
+        <Find name="&#x9519;&#x8BEF;" />
+        <Find name="banner message setings (apply to fullscreen capture)" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\presenter.332\i18n\zh-CN\boatLottery.ts" />
-        <File filename="F:\presenter.332\i18n\zh-CN\presenterModule.ts" />
-        <File filename="F:\presenter.332\i18n\zh-CN\object.ts" />
-        <File filename="F:\presenter.332\i18n\zh-CN\layout.ts" />
-        <File filename="F:\presenter.332\i18n\zh-CN\hySettingsWindow.ts" />
-        <File filename="F:\presenter.332\i18n\zh-CN\hylinkmic.ts" />
-        <File filename="F:\0.yy.log\yygamelive\huyagamelive.log" />
-        <File filename="F:\template.745\build.conf" />
-        <File filename="C:\Users\xujie\Desktop\play.csv" />
-        <File filename="F:\0.yy.huyapc\presenter\log\hyasdk_player_0.log" />
+        <File filename="E:\github\google\skia\out\depot_tools\ninja" />
+        <File filename="E:\github\google\skia\out\cmd.txt" />
+        <File filename="C:\Users\xujie2\Desktop\KERNELBASE_1875218515_0702_69\2018-07-02 crash 1560_0.txt" />
+        <File filename="C:\Users\xujie2\Desktop\gamecapturesdk_1407120146_0703_66\2018-07-03 crash 5640_0.txt" />
+        <File filename="C:\Users\xujie2\Desktop\KERNELBASE_1875218515_0702_107\2018-07-02 crash 3168_0.txt" />
+        <File filename="D:\devs\gitblit-1.8.0\gitblit.cmd" />
+        <File filename="F:\libobs\.gitignore" />
+        <File filename="D:\devs\gitblit-1.8.0\data\defaults.properties" />
+        <File filename="D:\devs\gitblit-1.8.0\data\gitblit.properties" />
+        <File filename="D:\devs\gitblit-1.8.0\installService.cmd" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -53,8 +53,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="1216" y="221" width="1940" height="1100" isMaximized="yes" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180621">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="501" y="544" width="1622" height="1086" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180706">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -87,7 +87,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="459">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="434">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
