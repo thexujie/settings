@@ -21,30 +21,31 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="httpBindInterface" />
+        <Filter name="" />
+        <Find name="on_cmbMode_currentIndexChanged" />
+        <Find name="Plugin" />
+        <Find name="debug" />
+        <Find name="op" />
+        <Find name="GetPluginListReq" />
+        <Find name="gamepk" />
+        <Find name="startGamePKMode" />
+        <Find name="&#x63D2;&#x4EF6;&#x4E2D;&#x5FC3;" />
+        <Find name="172" />
         <Find name="msvc_deps_prefix" />
-        <Find name="rule cc" />
-        <Find name="command" />
-        <Find name="Barrage" />
-        <Find name="env_setup " />
-        <Find name="bin " />
-        <Find name="amd64" />
-        <Find name="&#x9519;&#x8BEF;" />
-        <Find name="banner message setings (apply to fullscreen capture)" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="E:\github\google\skia\out\depot_tools\ninja" />
-        <File filename="E:\github\google\skia\out\cmd.txt" />
-        <File filename="C:\Users\xujie2\Desktop\KERNELBASE_1875218515_0702_69\2018-07-02 crash 1560_0.txt" />
-        <File filename="C:\Users\xujie2\Desktop\gamecapturesdk_1407120146_0703_66\2018-07-03 crash 5640_0.txt" />
-        <File filename="C:\Users\xujie2\Desktop\KERNELBASE_1875218515_0702_107\2018-07-02 crash 3168_0.txt" />
-        <File filename="D:\devs\gitblit-1.8.0\gitblit.cmd" />
-        <File filename="F:\libobs\.gitignore" />
-        <File filename="D:\devs\gitblit-1.8.0\data\defaults.properties" />
-        <File filename="D:\devs\gitblit-1.8.0\data\gitblit.properties" />
-        <File filename="D:\devs\gitblit-1.8.0\installService.cmd" />
+        <File filename="F:\0.yy.log\game_capture_engine\imagerecognizer.log" />
+        <File filename="F:\0.huya.pc\presenter\config\2251041974\cameraconfig2.xml" />
+        <File filename="F:\0.huya.pc\presenter\config\1582189283\config2.xml" />
+        <File filename="F:\test\oploader\oploader\oploader.cpp" />
+        <File filename="C:\Users\xujie\Desktop\GameLiveBase.jce_src(1)\GameLiveBase.jce_src\GameLiveBase.jce" />
+        <File filename="F:\hylive.333\cpp\src\presenterModule\logics\yyglGamePKLogic.cpp" />
+        <File filename="C:\Users\xujie\Desktop\GameLiveBase.jce_src\GameLiveBase.jce_src\GameLiveBase.jce" />
+        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
+        <File filename="F:\template.747\cpp\src\yygamelive\src\mainframe\colorfulTV\yyglColorfulTVFrame.cpp" />
+        <File filename="C:\Users\xujie\Desktop\skia_cmd.txt" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -53,8 +54,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="501" y="544" width="1622" height="1086" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180706">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="856" y="522" width="2141" height="1545" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180724">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -95,7 +96,8 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="0" />
+            <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
