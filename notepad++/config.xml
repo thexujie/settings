@@ -21,31 +21,30 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="on_cmbMode_currentIndexChanged" />
-        <Find name="Plugin" />
-        <Find name="debug" />
-        <Find name="op" />
-        <Find name="GetPluginListReq" />
-        <Find name="gamepk" />
-        <Find name="startGamePKMode" />
-        <Find name="&#x63D2;&#x4EF6;&#x4E2D;&#x5FC3;" />
-        <Find name="172" />
-        <Find name="msvc_deps_prefix" />
+        <Find name="ffmpeg" />
+        <Find name="DETOURS_VERSION" />
+        <Find name="WIN32_LEAN_AND_MEAN" />
+        <Find name="hyLayerMenuWidget::construct" />
+        <Find name="windows" />
+        <Find name="delay" />
+        <Find name="obs" />
+        <Find name="_on_removeLayerByLayerId" />
+        <Find name="addObsPluginSource" />
+        <Find name="DXPreviewContainer::event(QEvent *event)" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\0.yy.log\game_capture_engine\imagerecognizer.log" />
-        <File filename="F:\0.huya.pc\presenter\config\2251041974\cameraconfig2.xml" />
-        <File filename="F:\0.huya.pc\presenter\config\1582189283\config2.xml" />
-        <File filename="F:\test\oploader\oploader\oploader.cpp" />
-        <File filename="C:\Users\xujie\Desktop\GameLiveBase.jce_src(1)\GameLiveBase.jce_src\GameLiveBase.jce" />
-        <File filename="F:\hylive.333\cpp\src\presenterModule\logics\yyglGamePKLogic.cpp" />
-        <File filename="C:\Users\xujie\Desktop\GameLiveBase.jce_src\GameLiveBase.jce_src\GameLiveBase.jce" />
-        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
-        <File filename="F:\template.747\cpp\src\yygamelive\src\mainframe\colorfulTV\yyglColorfulTVFrame.cpp" />
-        <File filename="C:\Users\xujie\Desktop\skia_cmd.txt" />
+        <File filename="F:\engine.386\src\imagerecognizer\imagerecognizer.vcproj" />
+        <File filename="F:\presenter.332\build.conf" />
+        <File filename="F:\engine.386\extra_projs\libobs\obs\build\config\obsconfig.h" />
+        <File filename="F:\0.huya.pc\presenter\config\1591245082\cameraconfig2.xml" />
+        <File filename="F:\0.huya.pc\presenter\config\1582189283\cameraconfig2.xml" />
+        <File filename="F:\engine.386\src\gamecapturesdk\gamecapturesdk.pro" />
+        <File filename="E:\github\Microsoft\detours\system.mak" />
+        <File filename="E:\github\Microsoft\detours\src\Makefile" />
+        <File filename="E:\github\Microsoft\detours\src\detours.h" />
+        <File filename="C:\Users\xujie\Desktop\a.txt" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -54,7 +53,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="856" y="522" width="2141" height="1545" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="1319" y="208" width="2141" height="1545" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180724">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -96,8 +95,7 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
