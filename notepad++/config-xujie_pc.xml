@@ -21,32 +21,19 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="err win32::pipe::connect WaitNamedPipeW //./pipe/1" />
-        <Find name="pid:5040" />
-        <Find name="UPRV_LENGTHOF" />
-        <Find name="gamepk" />
-        <Find name="yyglGamePKLogic" />
-        <Find name="HuyaGamePKDetectLogic" />
-        <Find name="HuyaGamePKLogic" />
-        <Find name="startDetectProcess" />
-        <Find name="exeName=imagerecognizer.exe" />
-        <Find name="initGamePKConfig" />
+        <Find name="obs_source_prepare" />
+        <Find name="ffmpeg" />
+        <Find name="DETOURS_VERSION" />
+        <Find name="WIN32_LEAN_AND_MEAN" />
+        <Find name="hyLayerMenuWidget::construct" />
+        <Find name="windows" />
+        <Find name="delay" />
+        <Find name="obs" />
+        <Find name="_on_removeLayerByLayerId" />
+        <Find name="addObsPluginSource" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
-    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\2018-07-20 crash 2188_0.txt" />
-        <File filename="F:\hypcplayer\deps\zlib\zlib.h" />
-        <File filename="C:\Users\xujie2\AppData\Local\Temp\Temp1_&#x672A;&#x77E5;&#x6A21;&#x5757;_3272186893_0720_1000.zip\2018-07-20 crash 9888_0.txt" />
-        <File filename="C:\Users\xujie2\AppData\Local\Temp\Temp1_huyaplayerModule.exe1689292191_0720_14.zip\2018-07-20 crash 24496_0.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO020FB1AE\2018-07-20 crash 25184_0.txt" />
-        <File filename="F:\hypcplayer\player\libs\minizip\minizip.c" />
-        <File filename="F:\hypcplayer\player\.editorconfig" />
-        <File filename="F:\0.huya.pc\presenter\log\huyaplayerModule.plog" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\2018-07-20 crash 24968_0.txt" />
-        <File filename="F:\0.yy.huyapc\presenter\log\huyaplayerModule.plog" />
-    </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -54,7 +41,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="52" y="51" width="1617" height="938" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="159" y="133" width="1431" height="1007" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180724">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -74,7 +61,7 @@
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="no" brackets="no" curlyBrackets="no" quotes="no" doubleQuotes="no" htmlXmlTag="no" />
         <GUIConfig name="sessionExt"></GUIConfig>
-        <GUIConfig name="workspaceExt"></GUIConfig>
+        <GUIConfig name="workspaceExt" />
         <GUIConfig name="MenuBar">show</GUIConfig>
         <GUIConfig name="Caret" width="1" blinkRate="600" />
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
@@ -88,18 +75,30 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="298">
+        <GUIConfig name="SmartHighLightCaseSensitive">no</GUIConfig>
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="434">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
-            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <PluginDlg pluginName="CS-Script" id="6" curr="3" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\presenter\obs\plugins\plugins.ini" />
+        <File filename="F:\engine.386\extra_projs\libobs\obs\obs.vcxproj" />
+        <File filename="F:\0.huya.pc\presenter\obs\plugins\plugins.ini" />
+        <File filename="E:\vsfiles\xui\xui\graphics\raster\path_adapter.h" />
+        <File filename="E:\vsfiles\xui\x\win32\windows.h" />
+        <File filename="E:\vsfiles\xui\x\win32\win32.h" />
+        <File filename="E:\vsfiles\xui\x\core\core.cpp" />
+        <File filename="E:\vsfiles\xui\x\core\core.h" />
+        <File filename="E:\gitfiles\google\skia\modules\skshaper\BUILD.gn" />
+        <File filename="E:\gitfiles\google\skia\out\cmd.txt" />
+    </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />

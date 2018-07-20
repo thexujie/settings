@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no" isSearch2ButtonsMode="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="2" transparencyMode="1" transparency="192" dotMatchesNewline="no" isSearch2ButtonsMode="no">
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
@@ -22,30 +22,30 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="err win32::pipe::connect WaitNamedPipeW //./pipe/1" />
-        <Find name="pid:5040" />
-        <Find name="UPRV_LENGTHOF" />
+        <Find name="reqgamepkkill" />
         <Find name="gamepk" />
-        <Find name="yyglGamePKLogic" />
-        <Find name="HuyaGamePKDetectLogic" />
-        <Find name="HuyaGamePKLogic" />
-        <Find name="startDetectProcess" />
-        <Find name="exeName=imagerecognizer.exe" />
-        <Find name="initGamePKConfig" />
+        <Find name="clang_win" />
+        <Find name="is_clang" />
+        <Find name="clang" />
+        <Find name="win_sdk" />
+        <Find name="C:/Program Files (x86)/Microsoft Visual Studio 14.0/win_sdk/bin/SetEnv.cmd /x86 &amp;&amp; C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64_x86" />
+        <Find name="on_sigCheckRoomAuth" />
+        <Find name="on_sigGamePKEntryRsp" />
+        <Find name="on_sigGamePKEntryRsp|on_sigCheckRoomAuth" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\2018-07-20 crash 2188_0.txt" />
-        <File filename="F:\hypcplayer\deps\zlib\zlib.h" />
-        <File filename="C:\Users\xujie2\AppData\Local\Temp\Temp1_&#x672A;&#x77E5;&#x6A21;&#x5757;_3272186893_0720_1000.zip\2018-07-20 crash 9888_0.txt" />
-        <File filename="C:\Users\xujie2\AppData\Local\Temp\Temp1_huyaplayerModule.exe1689292191_0720_14.zip\2018-07-20 crash 24496_0.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO020FB1AE\2018-07-20 crash 25184_0.txt" />
-        <File filename="F:\hypcplayer\player\libs\minizip\minizip.c" />
-        <File filename="F:\hypcplayer\player\.editorconfig" />
-        <File filename="F:\0.huya.pc\presenter\log\huyaplayerModule.plog" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\2018-07-20 crash 24968_0.txt" />
-        <File filename="F:\0.yy.huyapc\presenter\log\huyaplayerModule.plog" />
+        <File filename="E:\github\google\skia\out\clang\args.gn" />
+        <File filename="C:\Users\xujie2\AppData\Roaming\HuyaPc\presenter\obs\plugins\plugins.ini" />
+        <File filename="E:\github\google\skia\tools\viewer\ImGuiLayer.h" />
+        <File filename="E:\github\google\skia\tools\viewer\ImGuiLayer.cpp" />
+        <File filename="E:\github\google\skia\tools\viewer\StatsLayer.h" />
+        <File filename="E:\github\google\skia\tools\viewer\StatsLayer.cpp" />
+        <File filename="E:\github\google\skia\gn\BUILDCONFIG.gn" />
+        <File filename="E:\github\google\skia\gn\BUILD.gn" />
+        <File filename="E:\github\google\skia\out\clang\toolchain.ninja" />
+        <File filename="E:\github\google\skia\out\cmd.txt" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -54,8 +54,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="52" y="51" width="1617" height="938" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180724">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="21" y="38" width="1622" height="969" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180706">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -88,7 +88,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="298">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="412">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
