@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no" isSearch2ButtonsMode="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="yes" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no" isSearch2ButtonsMode="no">
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
@@ -21,31 +21,32 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="err win32::pipe::connect WaitNamedPipeW //./pipe/1" />
-        <Find name="pid:5040" />
-        <Find name="UPRV_LENGTHOF" />
-        <Find name="gamepk" />
-        <Find name="yyglGamePKLogic" />
-        <Find name="HuyaGamePKDetectLogic" />
-        <Find name="HuyaGamePKLogic" />
-        <Find name="startDetectProcess" />
-        <Find name="exeName=imagerecognizer.exe" />
-        <Find name="initGamePKConfig" />
+        <Find name="test.tx.flv.huya.com" />
+        <Find name="connect to" />
+        <Find name="inf huya::createHttpFlvStream connect to" />
+        <Find name="VideoPlayer" />
+        <Find name="graphics" />
+        <Find name="graphics\" />
+        <Find name="zhixuAudit" />
+        <Find name="yyglLiveStartWidget::on_sigPacketKeyWordsFilterResp" />
+        <Find name="logics" />
+        <Find name="&#x8F93;&#x5165;" />
+        <Replace name="drawing" />
+        <Replace name="drawing\" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\2018-07-20 crash 2188_0.txt" />
-        <File filename="F:\hypcplayer\deps\zlib\zlib.h" />
-        <File filename="C:\Users\xujie2\AppData\Local\Temp\Temp1_&#x672A;&#x77E5;&#x6A21;&#x5757;_3272186893_0720_1000.zip\2018-07-20 crash 9888_0.txt" />
-        <File filename="C:\Users\xujie2\AppData\Local\Temp\Temp1_huyaplayerModule.exe1689292191_0720_14.zip\2018-07-20 crash 24496_0.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO020FB1AE\2018-07-20 crash 25184_0.txt" />
-        <File filename="F:\hypcplayer\player\libs\minizip\minizip.c" />
-        <File filename="F:\hypcplayer\player\.editorconfig" />
-        <File filename="F:\0.huya.pc\presenter\log\huyaplayerModule.plog" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\duowan\2018-07-20 crash 24968_0.txt" />
-        <File filename="F:\0.yy.huyapc\presenter\log\huyaplayerModule.plog" />
+        <File filename="D:\devs\clion\bin\clion64.exe.vmoptions" />
+        <File filename="F:\0.huya.pc\log\2018_09_04\huyaplayer.plog" />
+        <File filename="E:\vsrepo\xui\testskia\testskia.cpp" />
+        <File filename="C:\Users\xujie\Desktop\playersdk\include\private\pixfmt.h" />
+        <File filename="C:\Users\xujie\AppData\Local\Temp\&#x5206;&#x652F;&#x8BF4;&#x660E;.txt-revHEAD.svn000.tmp.txt" />
+        <File filename="C:\Users\xujie\Desktop\a.txt" />
+        <File filename="C:\Users\xujie\Desktop\txt.txt" />
+        <File filename="C:\Users\xujie\Desktop\TextFile1.txt" />
+        <File filename="C:\Windows\System32\drivers\etc\hosts" />
+        <File filename="C:\Users\xujie\Desktop\ttt.txt" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -54,8 +55,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="52" y="51" width="1617" height="938" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180724">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="949" y="425" width="2705" height="1650" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180915">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -88,16 +89,15 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="298">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="642">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
-            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <PluginDlg pluginName="CS-Script" id="6" curr="3" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
