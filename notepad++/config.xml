@@ -22,7 +22,7 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="MainFrameWidget::updateWindow" />
+        <Find name="utf8" />
         <Find name="test.tx.flv.huya.com" />
         <Find name="connect to" />
         <Find name="inf huya::createHttpFlvStream connect to" />
@@ -38,16 +38,16 @@
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="C:\Users\xujie\AppData\Local\Temp\&#x5206;&#x652F;&#x8BF4;&#x660E;.txt-revHEAD.svn000.tmp.txt" />
+        <File filename="C:\Users\xujie\Desktop\a.txt" />
         <File filename="C:\Users\xujie\Desktop\TextFile1.txt" />
         <File filename="C:\Windows\System32\drivers\etc\hosts" />
         <File filename="C:\Users\xujie\Desktop\ttt.txt" />
-        <File filename="F:\0.yy.huyapc\presenter\log\presenterModule_50016794.log" />
-        <File filename="\\repo.yy.com\dwpublish\yycomponents\gamelivelaunch\1.2.180\build.conf" />
-        <File filename="C:\Users\xujie2\Desktop\README.md" />
-        <File filename="C:\Users\xujie2\Desktop\000000.ts" />
-        <File filename="F:\hypcplayer\trunk\player\playerMini.vcxproj" />
-        <File filename="F:\hypcplayer\trunk\player\player.vcxproj" />
-        <File filename="F:\0.yy.huyapc\presenter\log\presenterModule_1582189283.log" />
+        <File filename="E:\vsrepo\xui\testskia\SkShaper.cpp" />
+        <File filename="F:\qt\4_7_1\src\corelib\tools\qchar.cpp" />
+        <File filename="F:\qt\4_7_1\src\corelib\tools\qchar.h" />
+        <File filename="C:\Users\xujie\Desktop\txt.txt" />
+        <File filename="C:\Program Files\Microsoft Network Monitor 3\API\NmApi.h" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -56,7 +56,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="288" y="181" width="1326" height="734" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="385" y="265" width="1492" height="1708" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180915">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -90,16 +90,15 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="381">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="642">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
-            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
             <PluginDlg pluginName="CS-Script" id="6" curr="3" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
