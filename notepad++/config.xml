@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="yes" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no" isSearch2ButtonsMode="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="192" dotMatchesNewline="no" isSearch2ButtonsMode="no">
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
@@ -22,32 +22,32 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
+        <Find name="locked" />
+        <Find name="&#x5DF2;&#x9501;&#x5B9A;" />
+        <Find name="&#x516C;&#x5C4F;&#x53D1;&#x8A00;" />
+        <Find name="200E" />
         <Find name="utf8" />
         <Find name="test.tx.flv.huya.com" />
         <Find name="connect to" />
         <Find name="inf huya::createHttpFlvStream connect to" />
         <Find name="VideoPlayer" />
         <Find name="graphics" />
-        <Find name="graphics\" />
-        <Find name="zhixuAudit" />
-        <Find name="yyglLiveStartWidget::on_sigPacketKeyWordsFilterResp" />
-        <Find name="logics" />
         <Replace name="drawing" />
         <Replace name="drawing\" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie\AppData\Local\Temp\&#x5206;&#x652F;&#x8BF4;&#x660E;.txt-revHEAD.svn000.tmp.txt" />
-        <File filename="C:\Users\xujie\Desktop\a.txt" />
-        <File filename="C:\Users\xujie\Desktop\TextFile1.txt" />
-        <File filename="C:\Windows\System32\drivers\etc\hosts" />
-        <File filename="C:\Users\xujie\Desktop\ttt.txt" />
-        <File filename="E:\vsrepo\xui\testskia\SkShaper.cpp" />
-        <File filename="F:\qt\4_7_1\src\corelib\tools\qchar.cpp" />
-        <File filename="F:\qt\4_7_1\src\corelib\tools\qchar.h" />
-        <File filename="C:\Users\xujie\Desktop\txt.txt" />
-        <File filename="C:\Program Files\Microsoft Network Monitor 3\API\NmApi.h" />
+        <File filename="F:\engine.389\i18n\zh-CN\cameracaptureengine_zh.ts" />
+        <File filename="F:\engine.389\i18n\zh-CN\toolset_zh.ts" />
+        <File filename="F:\engine.389\i18n\zh-CN\publicui_zh.ts" />
+        <File filename="F:\engine.389\i18n\zh-CN\previewbiz_zh.ts" />
+        <File filename="F:\engine.389\i18n\zh-CN\preview_zh.ts" />
+        <File filename="F:\engine.389\i18n\zh-CN\plugin_layout.ts" />
+        <File filename="F:\engine.389\i18n\zh-CN\phoneliveengine_zh.ts" />
+        <File filename="F:\engine.389\i18n\zh-CN\layout.ts" />
+        <File filename="F:\engine.389\bin\release\layout\gamecapture\desktoplive\yyglgiftlistframe.xml" />
+        <File filename="F:\engine.389\src\outgameui\outgameui.pro" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -56,8 +56,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="385" y="265" width="1492" height="1708" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180915">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="730" y="32" width="2348" height="1566" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180930">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -98,7 +98,8 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="0" />
+            <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
