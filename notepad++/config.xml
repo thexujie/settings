@@ -22,32 +22,32 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Find name="locked" />
-        <Find name="&#x5DF2;&#x9501;&#x5B9A;" />
-        <Find name="&#x516C;&#x5C4F;&#x53D1;&#x8A00;" />
-        <Find name="200E" />
-        <Find name="utf8" />
-        <Find name="test.tx.flv.huya.com" />
-        <Find name="connect to" />
-        <Find name="inf huya::createHttpFlvStream connect to" />
-        <Find name="VideoPlayer" />
-        <Find name="graphics" />
+        <Find name="reqBlockList" />
+        <Find name="hyBarrageBlockLogic" />
+        <Find name="basic_string" />
+        <Find name="base_string" />
+        <Find name="std::base_string" />
+        <Find name="std::string" />
+        <Find name="[huyacv]" />
+        <Find name="CChatMsgLogic::onItemConsumSubNotify" />
+        <Find name="send" />
+        <Find name="item" />
         <Replace name="drawing" />
         <Replace name="drawing\" />
         <Replace name="$(QTDIR)" />
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="F:\engine.389\i18n\zh-CN\cameracaptureengine_zh.ts" />
-        <File filename="F:\engine.389\i18n\zh-CN\toolset_zh.ts" />
-        <File filename="F:\engine.389\i18n\zh-CN\publicui_zh.ts" />
-        <File filename="F:\engine.389\i18n\zh-CN\previewbiz_zh.ts" />
-        <File filename="F:\engine.389\i18n\zh-CN\preview_zh.ts" />
-        <File filename="F:\engine.389\i18n\zh-CN\plugin_layout.ts" />
-        <File filename="F:\engine.389\i18n\zh-CN\phoneliveengine_zh.ts" />
-        <File filename="F:\engine.389\i18n\zh-CN\layout.ts" />
-        <File filename="F:\engine.389\bin\release\layout\gamecapture\desktoplive\yyglgiftlistframe.xml" />
-        <File filename="F:\engine.389\src\outgameui\outgameui.pro" />
+        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO05B6BCEC\2018-10-25 crash 13920_0.txt" />
+        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO03B3139C\2018-10-25 crash 12952_0.txt" />
+        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO0930940C\2018-10-25 crash 10124_0.txt" />
+        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO03A3A38F\2018-10-25 crash 4920_0.txt" />
+        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO486550DF\2018-10-25 crash 7980_0.txt" />
+        <File filename="F:\playerSdk\player\player\VideoPlayer.cpp" />
+        <File filename="E:\vsrepo\xui\x\core\vec2.h" />
+        <File filename="C:\Users\xujie\AppData\Roaming\Microsoft\VisualStudio\15.0_0a98245e\ActivityLog.xml" />
+        <File filename="F:\engine.hypubgcv\bin\release\data\huyacv\model\pubg_config_x64.json" />
+        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -56,8 +56,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="730" y="32" width="2348" height="1566" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20180930">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="598" y="164" width="2049" height="1615" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20181110">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -90,7 +90,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="642">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="987">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
