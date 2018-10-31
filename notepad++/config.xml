@@ -37,7 +37,6 @@
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie\Desktop\PresenterKeywordServant.jce_src\PresenterKeywordServant.jce_src\HUYA\PKeywordPanel.h" />
         <File filename="E:\github\Microsoft\detours\README.md" />
         <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\log\2018_10_25\huyaplayer.plog" />
         <File filename="E:\samples\WindowsSDK7-Samples-master\multimedia\DirectWrite\HelloWorld\CustomTextRenderer.cpp" />
@@ -47,6 +46,7 @@
         <File filename="E:\files\docs\&#x6211;&#x7684;YY\909015794\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_&#x6E05;&#x98CE;_1540882637112\presenterModule-capture.log" />
         <File filename="D:\apps\FileSeek\&#x6CE8;&#x518C;&#x4FE1;&#x606F;.txt" />
         <File filename="F:\engine.388\src\ingameui\uilogic\dxchatwindow.cpp" />
+        <File filename="C:\Users\xujie\Desktop\HuyaVSdk.jce_src\HuyaVSdk.jce_src\HuyaVSdk.jce" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -55,7 +55,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="56" y="175" width="1698" height="1185" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="306" y="148" width="1726" height="1598" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20181114">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
