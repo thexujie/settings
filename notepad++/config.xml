@@ -37,7 +37,6 @@
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="E:\github\Microsoft\detours\README.md" />
         <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\log\2018_10_25\huyaplayer.plog" />
         <File filename="E:\samples\WindowsSDK7-Samples-master\multimedia\DirectWrite\HelloWorld\CustomTextRenderer.cpp" />
         <File filename="E:\vsfiles2\KlayGE_4_13_1\README.md" />
@@ -47,6 +46,7 @@
         <File filename="D:\apps\FileSeek\&#x6CE8;&#x518C;&#x4FE1;&#x606F;.txt" />
         <File filename="F:\engine.388\src\ingameui\uilogic\dxchatwindow.cpp" />
         <File filename="C:\Users\xujie\Desktop\HuyaVSdk.jce_src\HuyaVSdk.jce_src\HuyaVSdk.jce" />
+        <File filename="C:\Users\xujie\Desktop\HuyaVSdk.jce_src\HuyaVSdk.jce_src\HuyaVSdk.h" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
