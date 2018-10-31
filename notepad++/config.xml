@@ -21,9 +21,8 @@
         <Filter name="" />
         <Filter name="" />
         <Filter name="" />
-        <Filter name="" />
-        <Find name="reqBlockList" />
-        <Find name="hyBarrageBlockLogic" />
+        <Find name="D2D1CreateDevice" />
+        <Find name="D2D1CreateDevice " />
         <Find name="basic_string" />
         <Find name="base_string" />
         <Find name="std::base_string" />
@@ -38,16 +37,16 @@
         <Replace name="presenter.260" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO05B6BCEC\2018-10-25 crash 13920_0.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO03B3139C\2018-10-25 crash 12952_0.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO0930940C\2018-10-25 crash 10124_0.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO03A3A38F\2018-10-25 crash 4920_0.txt" />
-        <File filename="C:\Users\xujie\AppData\Local\Temp\7zO486550DF\2018-10-25 crash 7980_0.txt" />
-        <File filename="F:\playerSdk\player\player\VideoPlayer.cpp" />
-        <File filename="E:\vsrepo\xui\x\core\vec2.h" />
-        <File filename="C:\Users\xujie\AppData\Roaming\Microsoft\VisualStudio\15.0_0a98245e\ActivityLog.xml" />
-        <File filename="F:\engine.hypubgcv\bin\release\data\huyacv\model\pubg_config_x64.json" />
-        <File filename="F:\0.huya.pc\presenter\log\presenterModule_1582189283.log" />
+        <File filename="C:\Users\xujie\Desktop\PresenterKeywordServant.jce_src\PresenterKeywordServant.jce_src\HUYA\PKeywordPanel.h" />
+        <File filename="E:\github\Microsoft\detours\README.md" />
+        <File filename="C:\Users\xujie\AppData\Roaming\HuyaPc\log\2018_10_25\huyaplayer.plog" />
+        <File filename="E:\samples\WindowsSDK7-Samples-master\multimedia\DirectWrite\HelloWorld\CustomTextRenderer.cpp" />
+        <File filename="E:\vsfiles2\KlayGE_4_13_1\README.md" />
+        <File filename="W:\samples\WindowsSDK7-Samples-master\multimedia\Direct2D\DXGISample\DxgiSample.cpp" />
+        <File filename="E:\samples\WindowsSDK7-Samples-master\multimedia\Direct2D\DXGISample\DxgiSample.cpp" />
+        <File filename="E:\files\docs\&#x6211;&#x7684;YY\909015794\&#x76F4;&#x64AD;&#x65E5;&#x5FD7;&#x6587;&#x4EF6;_&#x6E05;&#x98CE;_1540882637112\presenterModule-capture.log" />
+        <File filename="D:\apps\FileSeek\&#x6CE8;&#x518C;&#x4FE1;&#x606F;.txt" />
+        <File filename="F:\engine.388\src\ingameui\uilogic\dxchatwindow.cpp" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
@@ -56,8 +55,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="598" y="164" width="2049" height="1615" isMaximized="no" />
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20181110">yes</GUIConfig>
+        <GUIConfig name="AppPosition" x="56" y="175" width="1698" height="1185" isMaximized="no" />
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20181114">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
         <GUIConfig name="TrayIcon">no</GUIConfig>
@@ -90,7 +89,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="yes" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="987">
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="569" topHeight="200" bottomHeight="642">
             <FloatingWindow cont="4" x="1094" y="743" width="1435" height="881" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="4" isVisible="yes" />
@@ -98,8 +97,7 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
